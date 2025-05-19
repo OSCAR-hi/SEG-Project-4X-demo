@@ -1,0 +1,6 @@
+[submodule "Assets/SEG-Framework"]
+	path = Assets/SEG-Framework
+	url = https://github.com/OSCAR-hi/SEG-Framework.git
+[submodule "Assets/Modules"]
+	path = Assets/Modules
+	url = https://github.com/OSCAR-hi/SEG-Project-4X-demo-Modules.git
