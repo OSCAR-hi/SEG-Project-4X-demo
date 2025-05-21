@@ -1,0 +1,9 @@
+[submodule "ExcelConfigs"]
+	path = ExcelConfigs
+	url = https://github.com/OSCAR-hi/SEG-Project-4X-demo-Excel-Configs.git
+[submodule "Assets/Modules"]
+	path = Assets/Modules
+	url = https://github.com/OSCAR-hi/SEG-Project-4X-demo-Modules.git
+[submodule "Assets/Framework"]
+	path = Assets/Framework
+	url = https://github.com/OSCAR-hi/SEG-Framework.git

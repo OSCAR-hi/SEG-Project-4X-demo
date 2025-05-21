@@ -24,6 +24,12 @@
 
 ---
 
+### 📁 Excel配表仓库：[`SEG-Project-4X-demo-Excel-Configs`](https://github.com/OSCAR-hi/SEG-Project-4X-demo-Excel-Configs)
+
+- 用于集中管理此项目中的Excel配置表，方便策划自主编辑参数调试和使用。
+
+---
+
 ⚠️ **注意事项：**
 - 请**勿直接修改** `SEG-Project-4X-demo` 与 `SEG-Framework` 仓库；
 - 若确需改动，请**先与奥斯卡沟通确认**修改合理性；
